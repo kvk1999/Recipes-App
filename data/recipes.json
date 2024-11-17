@@ -1,0 +1,597 @@
+[{
+  "_id": {
+    "$oid": "6738e2171ae71dc89c807bd8"
+  },
+  "name": "Chicken Fajitas",
+  "ingredients": [
+    "chicken breasts",
+    "bell peppers",
+    "onion",
+    "fajita seasoning",
+    "tortillas"
+  ],
+  "instructions": "Cook chicken with peppers and onions, then serve with tortillas",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e24c1ae71dc89c807bda"
+  },
+  "name": "Pancakes",
+  "ingredients": [
+    "flour",
+    "milk",
+    "eggs",
+    "sugar",
+    "butter"
+  ],
+  "instructions": "Mix ingredients and cook in a pan.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e2861ae71dc89c807bdc"
+  },
+  "name": "Spaghetti Carbonara",
+  "ingredients": [
+    "spaghetti",
+    "eggs",
+    "parmesan",
+    "bacon",
+    "black pepper"
+  ],
+  "instructions": "Cook spaghetti, then toss with eggs, cheese, bacon, and pepper.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e2a31ae71dc89c807bde"
+  },
+  "name": "Chocolate Chip Cookies",
+  "ingredients": [
+    "flour",
+    "sugar",
+    "butter",
+    "chocolate chips",
+    "eggs"
+  ],
+  "instructions": "Mix and bake at 350°F for 10 minutes.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e3061ae71dc89c807be0"
+  },
+  "name": "Grilled Cheese Sandwich",
+  "ingredients": [
+    "bread",
+    "cheese",
+    "butter"
+  ],
+  "instructions": "Butter bread and grill with cheese inside.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e3181ae71dc89c807be2"
+  },
+  "name": "Caesar Salad",
+  "ingredients": [
+    "romaine lettuce",
+    "croutons",
+    "parmesan",
+    "Caesar dressing"
+  ],
+  "instructions": "Toss lettuce with dressing and top with cheese and croutons.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e35a1ae71dc89c807be4"
+  },
+  "name": "Beef Stew",
+  "ingredients": [
+    "beef",
+    "carrots",
+    "potatoes",
+    "onion",
+    "broth"
+  ],
+  "instructions": "Simmer ingredients together in a pot for 2 hours.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e39f1ae71dc89c807be7"
+  },
+  "name": "Chicken Stir-Fry",
+  "ingredients": [
+    "chicken",
+    "bell peppers",
+    "soy sauce",
+    "ginger",
+    "garlic"
+  ],
+  "instructions": "Stir-fry chicken and veggies in soy sauce and seasonings.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e41c1ae71dc89c807be9"
+  },
+  "name": "Margarita Pizza",
+  "ingredients": [
+    "pizza dough",
+    "tomato sauce",
+    "mozzarella",
+    "basil"
+  ],
+  "instructions": "Top dough with sauce and cheese, bake at 450°F for 12 minutes.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e4491ae71dc89c807beb"
+  },
+  "name": "Pasta Primavera",
+  "ingredients": [
+    "pasta",
+    "mixed vegetables",
+    "garlic",
+    "parmesan",
+    "olive oil"
+  ],
+  "instructions": "Cook pasta and toss with sautéed veggies, garlic, and olive oil.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e4611ae71dc89c807bed"
+  },
+  "name": "Lemon Chicken",
+  "ingredients": [
+    "chicken breasts",
+    "lemon",
+    "garlic",
+    "rosemary",
+    "butter"
+  ],
+  "instructions": "Cook chicken with lemon, garlic, and rosemary sauce.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e4701ae71dc89c807bef"
+  },
+  "name": "Tomato Soup",
+  "ingredients": [
+    "tomatoes",
+    "onion",
+    "garlic",
+    "cream",
+    "basil"
+  ],
+  "instructions": "Simmer tomatoes and garlic, then blend with cream.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e4831ae71dc89c807bf1"
+  },
+  "name": "Baked Ziti",
+  "ingredients": [
+    "ziti pasta",
+    "marinara sauce",
+    "ricotta cheese",
+    "mozzarella",
+    "parmesan"
+  ],
+  "instructions": "Layer pasta with cheese and sauce, then bake at 375°F for 20 minutes.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e4981ae71dc89c807bf3"
+  },
+  "name": "BBQ Ribs",
+  "ingredients": [
+    "pork ribs",
+    "BBQ sauce",
+    "salt",
+    "pepper"
+  ],
+  "instructions": "Grill ribs with BBQ sauce for 1.5 hours.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e4eb1ae71dc89c807bf5"
+  },
+  "name": "Salmon Fillets",
+  "ingredients": [
+    "salmon",
+    "olive oil",
+    "lemon",
+    "herbs"
+  ],
+  "instructions": "Bake salmon with olive oil and lemon at 400°F for 15 minutes.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e5051ae71dc89c807bf7"
+  },
+  "name": "Vegetable Curry",
+  "ingredients": [
+    "mixed vegetables",
+    "coconut milk",
+    "curry powder",
+    "garlic",
+    "onion"
+  ],
+  "instructions": "Simmer vegetables in coconut milk and curry powder.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e5571ae71dc89c807bf9"
+  },
+  "name": "Fish Tacos",
+  "ingredients": [
+    "white fish",
+    "corn tortillas",
+    "cabbage",
+    "lime",
+    "sour cream"
+  ],
+  "instructions": "Cook fish, then assemble tacos with cabbage and toppings.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e5721ae71dc89c807bfb"
+  },
+  "name": "Chicken Parmesan",
+  "ingredients": [
+    "chicken breasts",
+    "mozzarella",
+    "parmesan",
+    "marinara sauce",
+    "bread crumbs"
+  ],
+  "instructions": "Bread and bake chicken, then top with cheese and sauce.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e5891ae71dc89c807bfd"
+  },
+  "name": "Stuffed Bell Peppers",
+  "ingredients": [
+    "bell peppers",
+    "ground beef",
+    "rice",
+    "tomato sauce",
+    "cheese"
+  ],
+  "instructions": "Stuff peppers with beef, rice, and sauce, then bake.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e5cf1ae71dc89c807c01"
+  },
+  "name": "Baked Chicken Wings",
+  "ingredients": [
+    "chicken wings",
+    "olive oil",
+    "salt",
+    "pepper",
+    "garlic"
+  ],
+  "instructions": "Toss wings in seasoning, then bake at 400°F for 25 minutes.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e5ef1ae71dc89c807c03"
+  },
+  "name": "Fettuccine Alfredo",
+  "ingredients": [
+    "fettuccine",
+    "heavy cream",
+    "butter",
+    "parmesan",
+    "garlic"
+  ],
+  "instructions": "Cook pasta, then toss with creamy sauce made of butter, cream, and cheese.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e6951ae71dc89c807c05"
+  },
+  "name": "Beef Tacos",
+  "ingredients": [
+    "ground beef",
+    "taco seasoning",
+    "lettuce",
+    "cheese",
+    "sour cream"
+  ],
+  "instructions": "Cook beef with seasoning, then assemble tacos with toppings.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e6c61ae71dc89c807c07"
+  },
+  "name": "Pork Chops with Apples",
+  "ingredients": [
+    "pork chops",
+    "apples",
+    "onion",
+    "garlic",
+    "thyme"
+  ],
+  "instructions": "Sear pork chops and simmer with apples, onions, and garlic.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e6de1ae71dc89c807c09"
+  },
+  "name": "Eggplant Parmesan",
+  "ingredients": [
+    "eggplant",
+    "tomato sauce",
+    "mozzarella",
+    "parmesan",
+    "bread crumbs"
+  ],
+  "instructions": "Bread and fry eggplant, then layer with sauce and cheese and bake.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e7101ae71dc89c807c0b"
+  },
+  "name": "Vegetable Stir Fry",
+  "ingredients": [
+    "broccoli",
+    "carrots",
+    "bell peppers",
+    "soy sauce",
+    "ginger"
+  ],
+  "instructions": "Stir-fry veggies in soy sauce and ginger.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e73b1ae71dc89c807c0d"
+  },
+  "name": "Chicken Tenders",
+  "ingredients": [
+    "chicken breasts",
+    "bread crumbs",
+    "egg",
+    "flour",
+    "oil"
+  ],
+  "instructions": "Bread chicken tenders and fry until golden.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e74c1ae71dc89c807c0f"
+  },
+  "name": "Beef Wellington",
+  "ingredients": [
+    "beef tenderloin",
+    "puff pastry",
+    "mushrooms",
+    "egg wash",
+    "prosciutto"
+  ],
+  "instructions": "Wrap beef in mushrooms and prosciutto, then bake in puff pastry.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e7cb1ae71dc89c807c11"
+  },
+  "name": "Chicken Alfredo",
+  "ingredients": [
+    "chicken breasts",
+    "fettuccine",
+    "heavy cream",
+    "garlic",
+    "parmesan"
+  ],
+  "instructions": "Cook chicken, then combine with fettuccine and creamy Alfredo sauce.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e7e11ae71dc89c807c13"
+  },
+  "name": "Baked Potatoes",
+  "ingredients": [
+    "potatoes",
+    "butter",
+    "salt",
+    "sour cream"
+  ],
+  "instructions": "Bake potatoes at 400°F for 45 minutes, then top with butter and sour cream.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e7ff1ae71dc89c807c15"
+  },
+  "name": "Chili",
+  "ingredients": [
+    "ground beef",
+    "beans",
+    "tomatoes",
+    "onion",
+    "chili powder"
+  ],
+  "instructions": "Simmer beef, beans, and tomatoes with spices for 1 hour.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e8121ae71dc89c807c17"
+  },
+  "name": "Shrimp Scampi",
+  "ingredients": [
+    "shrimp",
+    "garlic",
+    "butter",
+    "lemon",
+    "pasta"
+  ],
+  "instructions": "Sauté shrimp with garlic and butter, then toss with pasta.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e8261ae71dc89c807c19"
+  },
+  "name": "Baked Salmon",
+  "ingredients": [
+    "salmon fillets",
+    "lemon",
+    "olive oil",
+    "dill",
+    "garlic"
+  ],
+  "instructions": "Bake salmon with olive oil, lemon, and dill.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e8531ae71dc89c807c1b"
+  },
+  "name": "Lasagna",
+  "ingredients": [
+    "lasagna noodles",
+    "ground beef",
+    "ricotta cheese",
+    "tomato sauce",
+    "mozzarella"
+  ],
+  "instructions": "Layer noodles, meat, sauce, and cheese, then bake.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738e8631ae71dc89c807c1d"
+  },
+  "name": "Pulled Pork",
+  "ingredients": [
+    "pork shoulder",
+    "BBQ sauce",
+    "onion",
+    "garlic",
+    "buns"
+  ],
+  "instructions": "Slow cook pork with BBQ sauce, then shred and serve on buns.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738ea261ae71dc89c807c1f"
+  },
+  "name": "Beef Stir Fry",
+  "ingredients": [
+    "beef strips",
+    "bell peppers",
+    "onion",
+    "soy sauce",
+    "ginger",
+    "garlic"
+  ],
+  "instructions": "Stir-fry beef with garlic and ginger, then add vegetables and soy sauce.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738ea571ae71dc89c807c21"
+  },
+  "name": "Spaghetti Bolognese",
+  "ingredients": [
+    "spaghetti",
+    "ground beef",
+    "tomato sauce",
+    "onion",
+    "garlic",
+    "basil"
+  ],
+  "instructions": "Cook spaghetti and simmer the meat sauce with garlic, onions, and tomatoes.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738ea9d1ae71dc89c807c23"
+  },
+  "name": "Chicken Caesar Salad",
+  "ingredients": [
+    "chicken breasts",
+    "romaine lettuce",
+    "parmesan",
+    "Caesar dressing",
+    "croutons"
+  ],
+  "instructions": "Grill chicken, then toss with lettuce, dressing, and toppings.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738eaae1ae71dc89c807c25"
+  },
+  "name": "Vegetarian Tacos",
+  "ingredients": [
+    "tortillas",
+    "black beans",
+    "corn",
+    "avocado",
+    "sour cream",
+    "lettuce"
+  ],
+  "instructions": "Fill tortillas with beans, corn, and toppings, then serve.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738eac31ae71dc89c807c27"
+  },
+  "name": "Mac and Cheese",
+  "ingredients": [
+    "macaroni",
+    "cheddar cheese",
+    "milk",
+    "butter",
+    "flour"
+  ],
+  "instructions": "Cook macaroni and make a creamy cheese sauce with butter, milk, and cheese.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738eae51ae71dc89c807c29"
+  },
+  "name": "Chicken Parmesan",
+  "ingredients": [
+    "chicken breasts",
+    "tomato sauce",
+    "mozzarella",
+    "parmesan",
+    "breadcrumbs",
+    "egg"
+  ],
+  "instructions": "Bread chicken, fry until crispy, then top with marinara sauce and cheese, and bake until melted.",
+  "__v": 0
+}]
