@@ -9,7 +9,7 @@ const recipeRoutes = require('./routes/recipeRoutes');
 
 dotenv.config();
 const app = express();
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 3001;
 
 // Middleware
 app.use(cors());
@@ -45,4 +45,4 @@ app.get('/', async (req, res) => {
 });
 
 // Start the server
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+app.listen(PORT, () => console.log(`Server running on port localhost:${PORT}`));
